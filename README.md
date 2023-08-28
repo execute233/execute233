@@ -1,7 +1,6 @@
 # execute233
 
-[![GitHub 统计]<img align="right" src="https://github-readme-stats.vercel.app/api?username=execute233&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
+[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=execute233&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true "GitHub 统计")](https://github-readme-stats.vercel.app/api?username=execute233&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true)
 [![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs?username=lc6464&theme=algolia&locale=cn "最常用的语言")](https://github-readme-stats.vercel.app/api/top-langs?username=execute233&theme=algolia&locale=cn)
 
 ### **学生**
