@@ -8,29 +8,30 @@
 ### **学生**
 
 - 居住地：中华人民共和国广东省的某个山旮旯里
-- 职业：学生
-- 住宿生
+- 职业：大学生
 
 ### **开发者**
 
 - 会一丢丢的语言（包括标记语言）：
   - HTML
   - Markdown
-  - JavaScript
   - TypeScript
   - CSS
   - Python
   - C#
+  - C/C++
   - Java
+  - Kotlin
   - Jsp
 - 会一丢丢的框架：
   - .NET
-  - SpringFramework
-  - SpringBoot
-  - SpringMVC
+  - Spring相关
   - jQuery
   - ...
-
+- 会一丢丢的数据库：
+  - MySQL
+  - MonogoDB
+  - ...
 ### **爱好**
 
 ---
@@ -44,4 +45,5 @@
   - 英语大佬 ❌
   - 谷歌翻译 ✔
 - 科学研究
-  - 雷电法王(bushi)
+  - 雷电法王 ❌
+  - 每日炸电容 ✔
