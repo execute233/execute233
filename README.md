@@ -13,24 +13,27 @@
 ### **开发者**
 
 - 会一丢丢的语言（包括标记语言）：
-  - HTML
-  - Markdown
-  - TypeScript
-  - CSS
+  - Java
+  - Go
   - Python
+  - TypeScript
+  - HTML
+  - CSS
+  - JavaScript
+  - Markdown
+  - CSS
   - C#
   - C/C++
-  - Java
   - Kotlin
-  - Jsp
 - 会一丢丢的框架：
   - .NET
   - Spring相关
-  - jQuery
+  - Vue3
   - ...
 - 会一丢丢的数据库：
   - MySQL
   - MonogoDB
+  - PosrgreSQL
   - ...
 ### **爱好**
 
@@ -47,3 +50,6 @@
 - 科学研究
   - 雷电法王 ❌
   - 每日炸电容 ✔
+- AI研究
+  - 炼丹师 ❌
+  - 指望AI帮我炼丹 ✔ 
